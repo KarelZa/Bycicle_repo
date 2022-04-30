@@ -20,7 +20,7 @@ function Bikes({ bikesArr, daysArr }) {
 		0
 	);
 	// onChange handler method , that  update value of item in the list
-	// e ==> event value
+	// e ==> event 
 	// index ==> number of item in the list
 	const handleChange = (e, index) => {
 		const { name, value } = e.target; // passing correct information from event
