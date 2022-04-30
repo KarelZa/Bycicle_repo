@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/React_Bikeform/static/css/main.7f18a5d9.chunk.css",
-    "main.js": "/React_Bikeform/static/js/main.f0eef2c3.chunk.js",
-    "main.js.map": "/React_Bikeform/static/js/main.f0eef2c3.chunk.js.map",
-    "runtime-main.js": "/React_Bikeform/static/js/runtime-main.f5364979.js",
-    "runtime-main.js.map": "/React_Bikeform/static/js/runtime-main.f5364979.js.map",
-    "static/css/2.383c0125.chunk.css": "/React_Bikeform/static/css/2.383c0125.chunk.css",
-    "static/js/2.be993e49.chunk.js": "/React_Bikeform/static/js/2.be993e49.chunk.js",
-    "static/js/2.be993e49.chunk.js.map": "/React_Bikeform/static/js/2.be993e49.chunk.js.map",
-    "index.html": "/React_Bikeform/index.html",
-    "static/css/2.383c0125.chunk.css.map": "/React_Bikeform/static/css/2.383c0125.chunk.css.map",
-    "static/css/main.7f18a5d9.chunk.css.map": "/React_Bikeform/static/css/main.7f18a5d9.chunk.css.map",
-    "static/js/2.be993e49.chunk.js.LICENSE.txt": "/React_Bikeform/static/js/2.be993e49.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/React_Bikeform/static/media/bikes.6269114f.jpg"
+    "main.css": "/bikeform/static/css/main.9f43c3a9.chunk.css",
+    "main.js": "/bikeform/static/js/main.71f24f46.chunk.js",
+    "main.js.map": "/bikeform/static/js/main.71f24f46.chunk.js.map",
+    "runtime-main.js": "/bikeform/static/js/runtime-main.06eb6d35.js",
+    "runtime-main.js.map": "/bikeform/static/js/runtime-main.06eb6d35.js.map",
+    "static/css/2.383c0125.chunk.css": "/bikeform/static/css/2.383c0125.chunk.css",
+    "static/js/2.be993e49.chunk.js": "/bikeform/static/js/2.be993e49.chunk.js",
+    "static/js/2.be993e49.chunk.js.map": "/bikeform/static/js/2.be993e49.chunk.js.map",
+    "index.html": "/bikeform/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/bikeform/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.9f43c3a9.chunk.css.map": "/bikeform/static/css/main.9f43c3a9.chunk.css.map",
+    "static/js/2.be993e49.chunk.js.LICENSE.txt": "/bikeform/static/js/2.be993e49.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/bikeform/static/media/bikes.6269114f.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f5364979.js",
+    "static/js/runtime-main.06eb6d35.js",
     "static/css/2.383c0125.chunk.css",
     "static/js/2.be993e49.chunk.js",
-    "static/css/main.7f18a5d9.chunk.css",
-    "static/js/main.f0eef2c3.chunk.js"
+    "static/css/main.9f43c3a9.chunk.css",
+    "static/js/main.71f24f46.chunk.js"
   ]
 }
